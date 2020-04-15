@@ -1,0 +1,4 @@
+https://docs.spring.io/spring-security/site/docs/3.0.x/reference/domain-acls.html
+https://www.youtube.com/watch?v=GTln3jc5_eg
+https://github.com/lspil/youtubechannel/tree/master/spring-acl-e1
+https://www.baeldung.com/spring-security-acl
